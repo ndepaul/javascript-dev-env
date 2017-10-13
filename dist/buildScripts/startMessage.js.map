@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../buildScripts/startMessage.js"],"names":["chalk","require","console","log","green"],"mappings":";;AAAA,IAAMA,QAAQC,QAAQ,OAAR,CAAd;;AAEAC,QAAQC,GAAR,CAAYH,MAAMI,KAAN,CAAY,6BAAZ,CAAZ","file":"startMessage.js","sourcesContent":["const chalk = require('chalk');\n\nconsole.log(chalk.green('Starting app in dev mode...'));\n\n\n"]}
