@@ -3,10 +3,12 @@
     <properties>
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/dist/buildScripts/startMessage.js" />
+        <item url="file://$PROJECT_DIR$/dist/buildScripts/srcServer.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/dist/buildScripts/startMessage.js" />
+      <root url="file://$PROJECT_DIR$/dist/buildScripts/srcServer.js" />
     </CLASSES>
     <SOURCES />
   </library>
