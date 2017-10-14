@@ -1,5 +1,7 @@
 'use strict';
 
+require('./index.css');
+
 var _numeral = require('numeral');
 
 var _numeral2 = _interopRequireDefault(_numeral);
