@@ -22,6 +22,8 @@ var _webpackconfig2 = _interopRequireDefault(_webpackconfig);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
+/* eslint-disable no-console */
+
 var port = 3000;
 var app = (0, _express2.default)();
 var compiler = (0, _webpack2.default)(_webpackconfig2.default);
